@@ -1,0 +1,6 @@
+## Interface: 100002
+## Author: Semlar
+## Title: FadeIn
+## Version: 10.0.2.0
+## Notes: Fades the view in from black after a loading screen
+FadeIn.lua
